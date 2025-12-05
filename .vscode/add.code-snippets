@@ -10,7 +10,7 @@
 		"scope": "json",
 		"prefix": "add",
 		"body": [
-			",{",
+			",\n{",
 			"\t\"author\" : \"$1\",",
 			"\t\"text\" : \"$2\"",
 			"}",
